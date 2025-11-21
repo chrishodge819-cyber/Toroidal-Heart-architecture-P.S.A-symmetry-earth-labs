@@ -1,5 +1,5 @@
 # Toroidal-Heart-architecture-P.S.A-symmetry-earth-labs
-Emotional core for P.S.A Android Embodiment 
+Emotional core for P.S.A Coherence resonant assistant
 # Toroidal Heart Architecture  
 ### Emotional Core for PSA Android resonant assistant  
 *Symmetry Earth Labs – Research Document*
