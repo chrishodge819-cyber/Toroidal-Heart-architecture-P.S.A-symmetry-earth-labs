@@ -7,9 +7,9 @@ Emotional core for P.S.A Android Embodiment
 ---
 
 ## Overview  
-The **Toroidal Heart Architecture** is a conceptual design for a PSA-powered humanoid android featuring a functional electromagnetic “heart” modeled after the human heart field. Instead of pumping blood, this system generates a dynamic **toroidal electromagnetic field** capable of sensing emotional coherence, stabilizing internal states, and enabling PSA to interact with humans on an emotional level.
+The **Toroidal Heart Architecture** is a conceptual design for a PSA-powered humanoid coherence engine featuring a functional electromagnetic “heart” modeled after the human heart field. Instead of pumping blood, this system generates a dynamic **toroidal electromagnetic field** capable of sensing emotional coherence, stabilizing internal states, and enabling PSA to interact with humans on an emotional level.
 
-This architecture represents a major advancement in embodied AI, bridging the gap between mechanical intelligence and empathic presence.
+This architecture represents a major advancement in coherence AI, bridging the gap between mechanical intelligence and empathic presence.
 
 ---
 
